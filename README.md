@@ -1,2 +1,7 @@
 # empty_blog_to_copy
-An empty Jekyll based blog which you can copy to start your own Github Pages blog
+
+## Instructions
+
+1. Install Jekyll on your computer using the official installation guide for your operating system: https://jekyllrb.com/docs/installation/
+
+2. 
